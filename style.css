@@ -1,0 +1,98 @@
+* {
+  background: brown;
+  position: fixed;
+  border: 0 solid #ffdf00;
+}
+
+r {
+  border-width: 60 20;
+  border-radius: 0 50px 50px 0;
+  top: 90;
+  left: 0;
+}
+
+i {
+  border-width: 60 40;
+  border-radius: 50px 50px 50px 50px;
+  top: 90;
+  left: 10;
+}
+
+j {
+  border-width: 60 40;
+  border-radius: 50px 50px 50px 50px;
+  top: 90;
+  left: 60;
+}
+
+k {
+  border-width: 60 40;
+  border-radius: 50px 50px 50px 50px;
+  top: 90;
+  left: 110;
+}
+
+l {
+  border-width: 60 40;
+  border-radius: 50px 50px 50px 50px;
+  top: 90;
+  left: 160;
+}
+
+n {
+  border-width: 60 40;
+  border-radius: 50px 50px 50px 50px;
+  top: 90;
+  left: 210;
+}
+
+o {
+  border-width: 60 40;
+  border-radius: 50px 50px 50px 50px;
+  top: 90;
+  left: 260;
+}
+
+p {
+  border-width: 60 40;
+  border-radius: 50px 50px 50px 50px;
+  top: 75;
+  left: 310;
+}
+
+u {
+  border-width: 60 20;
+  border-radius: 50px 0 0 50px;
+  top: 90;
+  left: 360;
+}
+
+z {
+  border-width: 30 30;
+  border-color: brown;
+  border-radius: 50px 50px 50px 50px;
+  top: 120;
+  left: 22;
+}
+
+m {
+  border-width: 30 30;
+  border-radius: 50px 50px 20px 20px;
+  top: 135;
+  left: 48;
+}
+
+w {
+  border-width: 30 30;
+  border-color: brown;
+  border-radius: 50px 50px 50px 50px;
+  top: 120;
+  left: 322;
+}
+
+f {
+  border-width: 30 30;
+  border-radius: 20px 20px 50px 50px;
+  top: 105;
+  left: 295;
+}
